@@ -1,5 +1,7 @@
 ---
 title: "naturesprez.github.io"
+about:
+  template: broadside
 ---
 
 This is a Quarto website.

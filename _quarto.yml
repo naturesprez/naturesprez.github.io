@@ -1,8 +1,9 @@
 project:
   type: website
+  output-dir: docs
 
 website:
-  title: "naturesprez.github.io"
+  title: "Ryan Stephenson, CNUa"
   navbar:
     left:
       - href: index.qmd
