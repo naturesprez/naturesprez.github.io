@@ -4,16 +4,20 @@ project:
 
 website:
   title: "Ryan Stephenson, CNUa"
+  favicon: naturesprez.github.io\imgimg\favicon
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: Plans.qmd
+        text: Plans
+      - href: cv/RyanStephenson_CV_11012022.pdf
+      - text: CV
 
 format:
   html:
-    theme: cosmo
-    css: styles.css
+    theme: sketchy
+    css: bootstrap.css
     toc: true
 
 

@@ -1,9 +1,55 @@
 ---
 title: "naturesprez.github.io"
+image: img\mocapic.jpg
 about:
-  template: broadside
+  template: jolla
+  image-shape: rounded
+  image-width: 15em
+  links: 
+    - icon: linkedin # you'll need the fontawesome extension to include icons: https://github.com/quarto-ext/fontawesome
+      text: LinkedIn
+      href: https://www.linkedin.com/in/ryan-stephenson-cnu-a-82725066/
+    - icon: twitter
+      text: twitter
+      href: https://twitter.com/NaturesPrez
+    - icon: github
+      text: GitHub
+      href: https://github.com/naturesprez
+    - icon: envelope
+      text: Email
+      href: mailto:ryan.patrick.stephenson@gmail.com
+    - icon: youtube
+      text: YouTube
+      href: https://www.youtube.com/channel/UCBSurzaDDnyTgFM3_nNXpXQ
 ---
 
-This is a Quarto website.
+### Professional Urban Planner    
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+<p class="topbr">Ryan, here! I'm a practicing urban planner with seven years of combined experience in private and public sector planning. My website is under construction as I am learning to code, a skillset that I believe will be increasingly relevant to planners seeking to integrate the sciences of urban planning and (landscape) ecology. This website was created to share my skills and interests. I'm accredited with the Congress for the New Urbanism and I am the Chapter Lead for the Southwest Chapter--check out our YouTube! I'm learning to code in R and Python, and I believe that open source tools are they way to go for democratizing creativity and planning!</p>
+
+-----------------------------------------------------------------------------------------------------------------------------------
+
+### education
+
+<div class="topbr">
+<p class="custom-subtitle"> {{< fa graduation-cap >}} **BA in Sustainability, Minor Cert in GIS, 2014**</p>  
+<p class="custom-subtitle2">Arizona State University</p>
+</div>
+
+-----------------------------------------------------------------------------------------------------------------------------------
+
+### experience
+
+<div class="topbr">
+<p class="custom-subtitle"> <i class="fa-regular fa-map"></i> **Urban Planner + GIS, 2017-present**</p>   
+<p class="custom-subtitle2">Pima County Community & Workforce Development</p>
+<p class="custom-subtitle2">Tucson, AZ</p>
+
+<p class="custom-subtitle"> <i class="fa-regular fa-map"></i> **Urban Planner, 2016-2017**</p>    
+<p class="custom-subtitle2">[PLAN-et Communities](https://plan-et.us/), PLLC</p>
+<p class="custom-subtitle2">Phoenix, AZ</p>
+
+<p class="custom-subtitle"> <i class="fa-solid fa-water"></i> **Urban Planner Intern, 2014**</p>    
+<p class="custom-subtitle2">[Decision Center for a Desert City](https://sustainability-innovation.asu.edu/dcdc/education/internship-for-science-practice-integration/)</p>
+<p class="custom-subtitle2">Tempe, AZ</p>
+</div>
