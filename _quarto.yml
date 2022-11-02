@@ -4,14 +4,14 @@ project:
 
 website:
   title: "Ryan Stephenson, CNUa"
-  favicon: img\apple-touch-icon-57x57.png
+  favicon: img/apple-touch-icon-57x57.png
   navbar:
     left:
       - href: index.qmd
         text: Home
       - href: Plans.qmd
         text: Plans
-      - href: cv/RyanStephenson_CV_11012022.pdf
+      - href: cv\RyanStephenson_CV_11012022.pdf
         text: CV
 
 format:
