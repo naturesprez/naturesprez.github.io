@@ -4,11 +4,7 @@ project:
 
 website:
   title: "Ryan Stephenson, CNUa"
-<<<<<<< HEAD
-  favicon: naturesprez.github.io\img\favicon.ico
-=======
-  favicon: naturesprez.github.io\imgimg\favicon
->>>>>>> d1762afc02034c6c0fc6b62b46a52801003502bc
+  favicon: naturesprez.github.io\img\apple-touch-icon-57x57.png
   navbar:
     left:
       - href: index.qmd
