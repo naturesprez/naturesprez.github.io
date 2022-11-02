@@ -2,9 +2,9 @@
 title: "Plans"
 ---
 
-## Plans
-[Town of Queen Creek 2018 General Plan Update](https://plan-et.us/town-of-queen-creek-2018-general-plan/)
-[Town of Queen Creek Parks & Recreation Master Plan](https://plan-et.us/toqc-2017prplan/)
+## General and Parks
+<p>[Town of Queen Creek 2018 General Plan Update](https://plan-et.us/town-of-queen-creek-2018-general-plan/)</p>
+<p>[Town of Queen Creek Parks & Recreation Master Plan](https://plan-et.us/toqc-2017prplan/)</p>
 
 ## Zoning Diagnostic and Code Change
 [City of South Tucson Incremental Development Zoning Diagnostic](https://www.southtucsonaz.gov/devservices/page/incremental-development-zoning-diagnostic)
