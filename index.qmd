@@ -1,5 +1,5 @@
 ---
-title: "naturesprez.github.io"
+title: "Ryan Stephenson, CNUa"
 image: img\mocapic.jpg
 about:
   template: trestles
