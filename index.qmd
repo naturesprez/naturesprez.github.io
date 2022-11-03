@@ -25,7 +25,7 @@ about:
 
 ### Professional Urban Planner    
 
-<p class="topbr">Ryan, here! I'm a practicing urban planner with seven years of combined experience in private and public sector planning. My website is under construction as I am learning to code, a skillset that I believe will be increasingly relevant to planners seeking to integrate the sciences of urban planning and (landscape) ecology. This website was created to share my skills and interests. I'm accredited with the Congress for the New Urbanism and I am the Chapter Lead for the Southwest Chapter--check out our YouTube! I'm learning to code in R and Python, and I believe that open source tools are they way to go for democratizing creativity and planning!</p>
+<p class="topbr">Ryan, here! I'm a practicing urban planner with seven years of combined experience in private and public sector planning. My website is under construction as I am learning to code, a skillset that I believe will be increasingly relevant to planners seeking to integrate the sciences of urban planning and (landscape) ecology. This website was created to share my skills and interests. I'm accredited with the Congress for the New Urbanism and I am the Chapter Lead for the Southwest Chapter--check out our YouTube! I'm learning to code in R and Python, and I believe that open source tools are the way to go for democratizing creativity and planning!</p>
 
 -----------------------------------------------------------------------------------------------------------------------------------
 
@@ -46,7 +46,7 @@ about:
 <p class="custom-subtitle2">Tucson, AZ</p>
 
 <p class="custom-subtitle"> <i class="fa-regular fa-map"></i> **Urban Planner, 2016-2017**</p>    
-<p class="custom-subtitle2">[PLAN-et Communities](https://plan-et.us/), PLLC</p>
+<p class="custom-subtitle2">[PLAN*et Communities](https://plan-et.us/), LLC</p>
 <p class="custom-subtitle2">Phoenix, AZ</p>
 
 <p class="custom-subtitle"> <i class="fa-solid fa-water"></i> **Urban Planner Intern, 2014**</p>    
